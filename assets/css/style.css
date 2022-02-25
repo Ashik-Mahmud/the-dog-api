@@ -5,3 +5,6 @@ body{
 .font-poppins{
     font-family: poppins;
 }
+.cursor-pointer{
+    cursor: pointer;
+}
