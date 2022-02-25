@@ -37,8 +37,6 @@ searchField.addEventListener('input', (event) => {
         })
 })
 
-
-
 /* step 3 display breeds on UI  */
 const displayBreeds = (breeds) => {
     breedsWrapper.textContent = '';
