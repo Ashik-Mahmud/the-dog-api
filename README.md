@@ -19,6 +19,6 @@ and may more...
 # Link link in the about section
 
 # Preview of the project
-![imagePreview](./preview.gif)
+<img src="./preview.gif" style="width: 100%" />
 
 > Thanks for reach out on github.
